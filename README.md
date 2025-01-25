@@ -1,4 +1,4 @@
-#Music Recommender System
+# Music Recommender System
 
 This project provides a music recommendation system that suggests similar songs based on the user's selection. The system utilizes the Spotify API to fetch album covers and uses cosine similarity to recommend similar tracks.
 
