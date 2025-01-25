@@ -2,11 +2,12 @@
 
 This project provides a music recommendation system that suggests similar songs based on the user's selection. The system utilizes the Spotify API to fetch album covers and uses cosine similarity to recommend similar tracks.
 
-Features:
+### Features:
 -Search for a song and artist to get a list of similar tracks.
 -Display album covers along with song names for recommended tracks.
 
-How to Run:
+### How to Run:
+
 1.Clone this repository to your local machine.
 
 2.Install the required dependencies by running:
