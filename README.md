@@ -14,8 +14,7 @@ This project provides a music recommendation system that suggests similar songs 
 pip install -r requirements.txt
 
 3.Set up the Spotify API credentials. Create a .env file and add your CLIENT_ID and CLIENT_SECRET from Spotify:
-CLIENT_ID=your_spotify_client_id
-
+CLIENT_ID=your_spotify_client_id,
 CLIENT_SECRET=your_spotify_client_secret
 
 4. Run the app using Streamlit:
